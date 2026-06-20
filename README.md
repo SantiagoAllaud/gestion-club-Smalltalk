@@ -9,7 +9,7 @@ El software fue diseñado y desarrollado como trabajo práctico para la cátedra
 ---
 
 ## 🛠️ Tecnologías Utilizadas
-* **Lenguaje:** Smalltalk (Pharo / Cuis Smalltalk - *completar con el entorno que usaste*)
+* **Lenguaje:** Smalltalk (Pharo / Cuis *VisualWorks*)
 * **Persistencia:** Almacenamiento de listas y colecciones de objetos directamente en disco.
 
 ---
