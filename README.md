@@ -1,4 +1,5 @@
 # # 🏟️ Gestión Administrativa de un Club
+![Uploading Fondo.png…]()
 
 ## 📝 Introducción
 Este proyecto consiste en el desarrollo de un **Sistema de Gestión Administrativa para un Club**, enfocado en centralizar y automatizar el control de socios, actividades, instalaciones y finanzas. La aplicación permite administrar desde la inscripción periódica a disciplinas deportivas hasta el flujo de caja, garantizando un control riguroso sobre las capacidades físicas de cada sector de la institución.
