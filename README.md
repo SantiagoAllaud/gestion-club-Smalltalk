@@ -4,7 +4,7 @@
 ## 📝 Introducción
 Este proyecto consiste en el desarrollo de un **Sistema de Gestión Administrativa para un Club**, enfocado en centralizar y automatizar el control de socios, actividades, instalaciones y finanzas. La aplicación permite administrar desde la inscripción periódica a disciplinas deportivas hasta el flujo de caja, garantizando un control riguroso sobre las capacidades físicas de cada sector de la institución.
 
-El software fue diseñado y desarrollado como trabajo práctico para la cátedra de **Paradigmas de Programación** (Año 2024), perteneciente a la carrera de **Ingeniería en Sistemas de Información** de la **UTN FR_** (Facultad Regional Concepción del Uruguay).
+El software fue diseñado y desarrollado como trabajo práctico para la cátedra de **Paradigmas de Programación** (Año 2024), perteneciente a la carrera de **Ingeniería en Sistemas de Información** de la **UTN FRCU** (Facultad Regional Concepción del Uruguay).
 
 ---
 
